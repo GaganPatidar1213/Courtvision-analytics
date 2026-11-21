@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+data/processed/*.csv
+models/*.joblib
+*.log
+tmp/pdfs/
+
+data/raw/
+output/
